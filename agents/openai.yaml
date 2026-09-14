@@ -1,0 +1,7 @@
+interface:
+  display_name: "Publicity Department - General Document Review"
+  short_description: "Evidence-backed publicity review with exact quality scores"
+  default_prompt: "Use $publicity-department-general-document-review to review this publicity document against its contract and authoritative sources."
+
+policy:
+  allow_implicit_invocation: true
